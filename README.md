@@ -1,4 +1,4 @@
-# Yii2-crontab
+# Yii2 Routes Logger
 Simple Yii2 extension to log all requested routes. 
 
 ## Installing
