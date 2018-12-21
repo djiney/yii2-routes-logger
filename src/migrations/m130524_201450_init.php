@@ -1,6 +1,6 @@
 <?php use yii\db\Migration;
 
-class m130524_201449_init extends Migration
+class m130524_201450_init extends Migration
 {
 	/**
 	 * {@inheritdoc}
