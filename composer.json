@@ -1,5 +1,5 @@
 {
-	"name": "djiney/yii2-crontab",
+	"name": "djiney/yii2-routes-logger",
 	"description": "Yii Framework 2.0 Component routes logger",
 	"keywords": ["yii2", "routes", "logger"],
 	"type": "yii2-extension",
